@@ -95,7 +95,8 @@ README.md
 # 📜 License
 
 All resources are free to use.
-You may modify or republish, but **credit is appreciated**.
+You may modify these script for your own server. 
+Republish and reselling without credits is strictly restricted.
 
 ---
 
