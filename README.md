@@ -103,7 +103,8 @@ You may modify or republish, but **credit is appreciated**.
 
 If you want custom scripts, help, or upgrades, contact me:
 
-**Discord:** @sairamkishan
+**Discord:** @sairamkishan (https://discord.gg/C6yGdAEWEa)
+
 **MTA Forum:** https://community.multitheftauto.com/index.php?p=profile&id=536289
 
 ---
