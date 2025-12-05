@@ -79,19 +79,6 @@ Simple food & hunger system for RP and survival servers.
 
 ---
 
-# 📁 Repository Structure
-
-```
-/sai_notifications.zip
-/saihud.zip
-/dragsystem.zip
-/sailogin.zip
-/food.zip
-README.md
-```
-
----
-
 # 📜 License
 
 All resources are free to use.
